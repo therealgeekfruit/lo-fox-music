@@ -1,6 +1,20 @@
-Screw everything else, check the build at https://zen-gates-6a3781.netlify.app
+# Lo-Fox Music
+-This is a static music player app built on react and sass. It has a minimal UI with subtle animations, mobile responsive code.
 
 
+-Languages used- HTML, SASS, JAVASCRIPT, REACT.
+
+
+-Music is provided by- [ChillHop](https://chillhop.com/)
+
+
+-This web-app is built for educational purposes only.
+
+
+-Preview: [Lo-Fox](https://zen-gates-6a3781.netlify.app)
+
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
